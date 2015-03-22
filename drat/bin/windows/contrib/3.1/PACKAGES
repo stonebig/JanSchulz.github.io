@@ -1,0 +1,5 @@
+Package: rzmq
+Version: 0.7.7
+License: GPL-3
+Archs: i386, x64
+
